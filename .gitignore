@@ -1,2 +1,6 @@
 __pycache__/
 *.pyc
+.venv/
+eproc-mcp/config.toml
+*.egg-info/
+.pytest_cache/
